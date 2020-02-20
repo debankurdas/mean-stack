@@ -1,0 +1,21 @@
+mat-toolbar,
+span
+{
+  color: rgba(236, 231, 231, 0.644);
+}
+
+a
+{
+  color: white;
+}
+ul li{
+  list-style: none;
+  margin: 0;
+}
+ ul {
+   display: flex;
+ }
+
+.spacer {
+  flex: auto;
+}
